@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>GT-I9268</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>I9268CHM</CSCName>
+	<CSCVersion>BMF1</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/CHM/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
